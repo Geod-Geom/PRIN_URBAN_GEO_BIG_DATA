@@ -1,7 +1,7 @@
 # URBAN GEO BIG DATA
 http://www.urbangeobigdata.it/
 
-Prototypal source code for genrating impedence maps from Floating Car Data (FCD) acquired by public transportation systetems.
+Prototypal source code for generating impedence maps from Floating Car Data (FCD) acquired by public transportation systetems.
 
 ### Requirements ###
 
